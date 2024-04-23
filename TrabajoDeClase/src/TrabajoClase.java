@@ -5,6 +5,7 @@ public class TrabajoClase {
 		// TODO Auto-generated method stub
 		System.out.println("Hola soy elizabeth");
 		System.out.println("Hola Me llamo Carlos");
+		System.out.println ("Yo soy Coral");
 	}
 
 }
